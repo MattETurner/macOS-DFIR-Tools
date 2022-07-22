@@ -11,6 +11,5 @@ DFIR-OpenVHD is an application for macOS written with Automator and AppleScript.
 ## USE
 - Save the application after opening the DMG. 
 - Right-click a VHD file and select 'open-with'.
-- Choose this application to open and mount the VHD file in readonly mode.
-
-**Full Changelog**: https://github.com/MattETurner/macOS-DFIR-Tools/commits/OpenVHD-v1.1.0
+- Choose this application to open the VHD file in readonly mode.
+- If you want to mount a partition you can do so in 'Disk Utility'.
